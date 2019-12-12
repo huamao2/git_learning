@@ -1,2 +1,6 @@
 working online
+<<<<<<< Updated upstream
 fix bug
+=======
+editing
+>>>>>>> Stashed changes
